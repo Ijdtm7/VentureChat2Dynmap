@@ -15,4 +15,4 @@ Note that the relay is unidirectional; Dynmap chat is shown in-game just fine wi
 
 ## License
 
-Copyright (C) 2020 Lightly Existing. Licensed under the [ISC License](/LICENSE).
+Copyright (C) 2022 Lightly Existing. Licensed under the [ISC License](/LICENSE).
