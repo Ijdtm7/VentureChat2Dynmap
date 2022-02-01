@@ -16,3 +16,4 @@ Note that the relay is unidirectional; Dynmap chat is shown in-game just fine wi
 ## License
 
 Copyright (C) 2022 Lightly Existing. Licensed under the [ISC License](/LICENSE).
+Created from https://github.com/BytewaveMLP/Dynmap2Discord
