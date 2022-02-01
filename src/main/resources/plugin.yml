@@ -1,0 +1,9 @@
+name: VentureChat2Dynmap
+version: 1.0.0
+author: LightlyExisting
+main: lightlyexisting.experiments.venturechat2dynmap.VentureChat2Dynmap
+description: VentureChat --> Dynmap chat relay
+api-version: 1.15
+depend:
+  - VentureChat
+  - dynmap
