@@ -31,7 +31,7 @@ jobs:
     - name: Make gradlew executable
       run: chmod +ux ./gradlew
     - name: Build with Gradle
-    - run: ./gradlew build
+      run: ./gradlew build
 
     # The USERNAME and TOKEN need to correspond to the credentials environment variables used in
     # the publishing section of your build.gradle
