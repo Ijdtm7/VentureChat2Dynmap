@@ -26,7 +26,7 @@ repositories {
 }
 
 dependencies {
-    shadow 'org.spigotmc:spigot-api:1.15.2-R0.1-SNAPSHOT'
+    shadow 'org.spigotmc:spigot-api:1.10.2-R0.1-SNAPSHOT'
     shadow 'us.dynmap:dynmap-api:3.0-SNAPSHOT'
     shadow 'mineverse.aust1n46:venturechat:2.20.1'
     shadow fileTree(dir: 'libs', include: '*.jar')
