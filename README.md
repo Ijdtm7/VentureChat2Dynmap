@@ -6,11 +6,12 @@
 
 1. Install VentureChat and Dynmap/LiveAtlas
 
-2. Binaries coming soon--compile with ./gradlew build (tested with OpenJDK 8).
+2. Download binaries from releases or compile with Java8+: ./gradlew build.
 
 ## Usage
 
-Messages from Minecraft running on VentureChat will be relayed to Dynmap just like Vanilla chat.
+There are no options to configure. 
+Messages from Minecraft running on VentureChat will be relayed to Dynmap.
 Note that the relay is unidirectional; Dynmap chat is shown in-game just fine without this plugin.
 
 ## License
